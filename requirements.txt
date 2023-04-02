@@ -1,0 +1,4 @@
+flask
+google-cloud-speech
+google-cloud-texttospeech
+openai
