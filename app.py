@@ -5,7 +5,7 @@ from google.cloud import texttospeech
 import openai
 
 # Set up Flask app
-app = Flask(FermiVoice)
+app = Flask("FermiVoice")
 
 # Set up Google Speech-to-Text client
 speech_client = speech.SpeechClient()
