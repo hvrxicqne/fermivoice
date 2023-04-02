@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fermivoice-382507",
+  "private_key_id": "4690037d94ca0527b3b2c2f6f52e3b37a50c8980",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvwzVCXKZ/uCsN\n84+D+6Y7F+dVSIkpW0jCuVFB7mFc6cWhe2a7VG5hY9NDg3v5Nx8ZTFGoAxxEX4gf\nnOuCtEC9lz+SqtnylPXGLyEPpk9Gkxgyjl6ExjeTq/KqZnjvjXJbB7WchJT89KRq\nbqcEAnnu5EZpqfHTLKLfwK63bCgcVZ/dC4NdDvtCoKiAPpgIsi5MUMGFu9DRrL4G\nqCTsZ8y5aJMNGgJjfvu/GZNY2qgaVPvbsv71xi5/K789QOJ1Bnd0HGKZPkmBOsCK\nJnpu04WxHsXNyRRV3ia8j2lc4SwP/XptSxyOKwWl0NAC+sY2zBlEJ8MhKfbWvVdK\n5fAfqy8HAgMBAAECggEAQA0ofI2dE5A/CG+JDnUHqCNW52puqcadZnD4XsmLa7u5\njNaWoo/rRcyGMeVZqYFf8O0yGMNBat1Rkwuxe8lKiozy2vUuRcvpIRcNulFGNJbo\nS4w8f7BokoUoAtcjHVFzqh7OHULntKNGw46diMWKP/eqfVk0SlvK4zWptihRGbmx\n8cGWE/zSaWNEo2UEq2GpMOar43lVogQhhabZfOv9L6VmWjFXtNHkkSo7o3yJ3jtC\nba76/Tde5exNW4FX//9WNpUGQMbMErkqV8gc+TGKyUKoKgYTZNg2swHxfiyEnOHx\nUlhFQZx59JJowgR60jJC1x7StOdVRELx/UTk6n/GqQKBgQD38mpSKizPbswZBgdV\nHe+MX7RHOUvaDxKgml/GNys0326ez2Xpw/YzECugWhE5oIa1VPKzECsyhtgS2Gn0\nH4fCM//Or3iHN/+PlIaNiXNBhyV1dPbB6g+moWmN6YSDa9Jj0HMZGOh822dEGaIo\nRQTLhVYJx5FKsAR3K9UbeYfe3QKBgQC1eJtXZ9NHQUNiE18aWjOM2wXhDy/ikprv\nPMs8WzQPS9vP/ncTDu384kO5X5OpYPU7UKM9sTUcQ1My4uL2gkOnvBhIAP/221aZ\nTEsDQJwnMV19BCD5EazphjZZKS/YYQpcfHoeum6VQZpQZ/zX4jl4dMmJYAGAbuEy\nhq/SizndMwKBgQCt/5F7PZuaqi9SdDebFNnxkYvq25uOWDuDNzJ04GxSu2Vezz6+\nsMVKilODQRGLdkpyYD29SWB3IcfqWbLpHWNg9qrSubMEeVi/wsQ1+TpHxvaTmdQ8\nuuvmzKlNbI2QyI6pezP6bc9hJ3stgCuaxOybgmOhk0oztpg7pSf1EvE1hQKBgDnC\n1c8QYROBFm2VNOQyac4fuNNV/ivj9iTH+PiRHxTvVFvz5vrN+bpQWrYaUenLzsK+\ne/ca/IiudUDxLsS/2cD+AcyJZO+yCPJqckXqvslK0TMFqWkd0yfRbGMc1PnOiXm+\ntTAqryAa7X9CWhxtCVXp9mwfftrecBeg/z3IyvY5AoGAebYF2z4ydRcRCfpKo97g\nrfzp0hp9ChJgZ7fFWg02w+eIKc7u1gCz9nT5Rw9as7VSBKpLzKuGZF4JUMGoXzXK\nPdW5Vlk9MtTcqyGUr+x8Tj2qT9JEClzJHpmmL+fIf3jbXWLXdmhC/mAfgEcBdiJv\nX71D4aZPgvFj/tV+74hEFb8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fermivoice@fermivoice-382507.iam.gserviceaccount.com",
+  "client_id": "101984047787901068351",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fermivoice%40fermivoice-382507.iam.gserviceaccount.com"
+}
